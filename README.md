@@ -8,7 +8,7 @@ Model seeks for similarity between top products per customer before and during C
 Notebook 2 (Delay payments prediction) : Prediction of payment delays
 In this notebook we tried to predict payment delays through models based on customers quantitative and qualitative data
 
-Notebook 3 : Sentiment analysis on phone calls comments
+Notebook 3 (Sentiments analysis on comments) : Sentiment analysis on phone calls comments
 In this notebook we perform sentiment analysis and create a preliminary model  on a dataset containing comments derived from the telesales department (Data come only from phone calls to bulk customers) 
 
 
